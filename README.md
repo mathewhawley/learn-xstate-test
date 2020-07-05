@@ -1,3 +1,14 @@
+# Learn XState test
+
+Learning exercise with async processes in XState.
+
+Testing tools:
+
+- [Testing Library](https://testing-library.com)
+- [MSW](https://github.com/mswjs/msw)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
